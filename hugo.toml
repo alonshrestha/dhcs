@@ -1,9 +1,0 @@
-baseURL = ''
-languageCode = 'en-us'
-title = 'Doctor House Call Service Nepal'
-
-[params]
-contact1 = '01-5148031'
-contact2 = '+977-9861617998'
-
-uglyURLs = true
