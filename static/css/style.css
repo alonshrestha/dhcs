@@ -15,8 +15,9 @@ body {
   line-height: 1.6;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
-  color: #6F8BA4;
+  font-size: 18px;
+  /* color: #6F8BA4; */
+  color: #222222;
   font-weight: 400;
   overflow-x: hidden;
 }
@@ -646,7 +647,8 @@ a:focus {
   color: #223a66;
 }
 .feature-item p {
-  font-size: 14px;
+  /* font-size: 14px; */
+  font-size: 16px;
 }
 
 .feature-section.border-top {
