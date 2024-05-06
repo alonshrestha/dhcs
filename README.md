@@ -44,8 +44,6 @@ Check out the live website: [Doctors House Call Service](https://doctorshousecal
 
 ## Screenshots
 
-![Screenshot 1](static/images/website-demo.png)
-
 ## Technologies Used
 
 - HTML
