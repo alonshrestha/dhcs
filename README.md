@@ -43,6 +43,7 @@ Check out the live website: [Doctors House Call Service](https://doctorshousecal
 - SEO Optimized
 
 ## Screenshots
+![Screenshot 1](static/images/website-demo.png)
 
 ## Technologies Used
 
